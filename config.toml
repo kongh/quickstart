@@ -1,4 +1,4 @@
 baseURL = 'https://kongh.github.io/quickstart'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Hang Kong's Quikstart Blog"
 theme = "ananke"
