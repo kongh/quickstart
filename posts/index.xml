@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Oct 2022 12:03:40 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 29 Oct 2022 12:03:40 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://kongh.github.io/quickstart/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Oct 2022 12:03:40 +0800</lastBuildDate><atom:link href="https://kongh.github.io/quickstart/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Go Programming Language</title><link>https://kongh.github.io/quickstart/posts/my-first-post/</link><pubDate>Sat, 29 Oct 2022 12:03:40 +0800</pubDate><guid>https://kongh.github.io/quickstart/posts/my-first-post/</guid><description>The Go Programming Language Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Gopher image by [Renee French][rf], licensed under [Creative Commons 3.0 Attributions license][cc3-by].
+Our canonical Git repository is located at https://go.googlesource.com/go. There is a mirror of the repository at https://github.com/golang/go.
+Unless otherwise noted, the Go source files are distributed under the BSD-style license found in the LINCENSE file.
+Download and Install Binary Distributions Official binary distributions are available at https://go.</description></item></channel></rss>
