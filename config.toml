@@ -1,4 +1,6 @@
 baseURL = 'https://kongh.github.io/quickstart'
 languageCode = 'en-us'
 title = "Hang Kong's Quikstart Blog"
-theme = "ananke"
+# theme = "ananke"
+# theme = "m10c"
+theme = "LoveIt"
